@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Utils.fs" />
+    <Compile Include="Day01.fsx" />
+    <Compile Include="Day03.fsx" />
+    <Compile Include="Day08.fsx" />
+  </ItemGroup>
+</Project>
